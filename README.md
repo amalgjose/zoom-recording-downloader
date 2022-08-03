@@ -12,7 +12,7 @@
 _Attention: You will need [Python 3.6](https://www.python.org/downloads/) or greater_
 
 ```sh
-$ git clone https://github.com/ricardorodrigues-ca/zoom-recording-downloader
+$ git clone https://github.com/amalgjose/zoom-recording-downloader
 $ cd zoom-recording-downloader
 $ pip3 install -r requirements.txt
 ```
